@@ -22,7 +22,13 @@
 第 17 课 - 使用 Hardhat 开发 DAO
 第 18 课 - 安全与审计
 
-记得查看 GitHub Repository：https://github.com/smartcontractkit/full-blockchain-solidity-course-js
-Repo 中有大量的学习资料
+# 参考资料
+
+- [北大学生组织公开课](https://www.wtf.academy/)
+- [Web3 DApp 最佳编程实践指南](https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek)
+
+- [Chainlink GitHub Repository：有大量的学习资料](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 
 Chainlink 也维护中国开发者社区，其目的是帮助中国开发者深入了解区块链技术，了解 Web3 行业内的技术发展，彼此交流，共同进步。如果对教程中的内容有任何问题，或者想要和志同道合的朋友讨论行业前景，欢迎加入 Chainlink 中国开发者社区，请添加微信以加入社区：quanxiayuechu，获得更多的学习资源！
+
+- [Open Campus 带动教育赛道，哪些项目还值得关注？](https://www.theblockbeats.info/news/36913)
