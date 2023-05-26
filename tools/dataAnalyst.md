@@ -1,5 +1,7 @@
 # 数据分析
 
+- [Web3 进阶指南：如何成为一名数据分析师？](https://foresightnews.pro/topic/detail/27)
+
 ## 项目信息
 
 - [vedao](https://app.vedao.com/)
@@ -24,6 +26,9 @@
   强大且易懂的可视化工具，输入地址就能查所有关联的地址和金额，还能动态调整时间
 
 ## 链上数据
+
+- [DefiLlama](https://twitter.com/DefiLlama)
+  DefiLlama 是一个全面的 DEFI 数据分析平台，可让用户通过数据轻松找到新的热门项目，最近他们添加了一个治理部分，用户可以轻松找到重要的治理建议
 
 - [重新认识 Dune：强大的免费链上数据分析工具](https://www.theblockbeats.info/news/37095)
 
