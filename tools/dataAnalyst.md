@@ -1,5 +1,7 @@
 # 数据分析
 
+- [Crypto VC 们最近有何动向？7 个工具助你轻松追踪](https://foresightnews.pro/article/detail/32919)
+
 - [Web3 进阶指南：如何成为一名数据分析师？](https://foresightnews.pro/topic/detail/27)
 
 ## 项目信息

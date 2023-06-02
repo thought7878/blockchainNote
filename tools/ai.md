@@ -7,3 +7,5 @@
 [一键制作网页和 Ppt 的 AI 工具—Gamma](https://twitter.com/MeetGamma)
 
 ##
+
+[类似 chatgpt](https://twitter.com/0xAA_Science/status/1664516706843389953)
