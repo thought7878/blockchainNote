@@ -3,3 +3,9 @@
 - [Web3 元宇宙赛道展望（中）— 探讨用户生成内容（UCG）板块的现状](https://www.theblockbeats.info/news/36640)
 - []()
 - []()
+
+## Gamium
+
+FDM:55m [twitter](https://twitter.com/gamiumcorp)
+
+[Meta 和 Telefónica 联合启动元宇宙激活计划，元宇宙项目 Gamium 将参与合作](https://foresightnews.pro/news/detail/18467)
