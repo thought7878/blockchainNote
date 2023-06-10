@@ -1,5 +1,6 @@
-# 融资信息
+# 融资信息/项目信息
 
+- [vedao](https://app.vedao.com/)
 - [rootdata](https://www.rootdata.com/zh)
 
 # 数据分析
@@ -8,9 +9,7 @@
 
 - [Web3 进阶指南：如何成为一名数据分析师？](https://foresightnews.pro/topic/detail/27)
 
-## 项目信息
-
-- [vedao](https://app.vedao.com/)
+##
 
 ## 三個 GAS 統計網站
 
