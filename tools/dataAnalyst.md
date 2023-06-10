@@ -1,3 +1,15 @@
+## 推特分析
+
+### [vedao](https://app.vedao.com/)
+
+发掘潜力项目的投融资社区
+
+### [Twitter Scan](https://twitterscan.com/)
+
+Twitterscan 是一款能够帮助用户快速定位热门项目（token or NFT）,判断优质用户,发觉新项目，甄别热门话题的一款工具。
+
+Whale Followers，当你每点击一个项目时候，可以查询哪些 KOL、Whale、机构关注了该项目。
+
 # 融资信息/项目信息
 
 - [vedao](https://app.vedao.com/)
