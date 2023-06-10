@@ -1,3 +1,7 @@
+# 融资信息
+
+- [rootdata](https://www.rootdata.com/zh)
+
 # 数据分析
 
 - [Crypto VC 们最近有何动向？7 个工具助你轻松追踪](https://foresightnews.pro/article/detail/32919)
