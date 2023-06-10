@@ -1,19 +1,31 @@
 ## 推特分析
 
-### [vedao](https://app.vedao.com/)
-
-发掘潜力项目的投融资社区
-
 ### [Twitter Scan](https://twitterscan.com/)
 
 Twitterscan 是一款能够帮助用户快速定位热门项目（token or NFT）,判断优质用户,发觉新项目，甄别热门话题的一款工具。
 
 Whale Followers，当你每点击一个项目时候，可以查询哪些 KOL、Whale、机构关注了该项目。
 
-# 融资信息/项目信息
+### [vedao](https://app.vedao.com/)
+
+发掘潜力项目的投融资社区
+
+## 项目信息
 
 - [vedao](https://app.vedao.com/)
+  发掘潜力项目的投融资社区
+
+## 融资信息
+
 - [rootdata](https://www.rootdata.com/zh)
+
+# 链上数据
+
+## [DeFiLlama （DeFi 综合数据）](https://defillama.com/)
+
+TVL 是 Defi 项目的最重要的参考指标之一。DeFiLlama 能够准确、快速地跟踪超过 150 条链和大量不同协议的 TVL 数据和交易量数据。DeFiLlama 远不止是一个普通的 DeFi 统计中心。该项目还提供实时收益率指标、稳定币图表、清算活动、空投机会、黑客资讯以及更多数据。
+
+比如在 Categories 下，是按照协议的类型分类的，有去中心化交易所，有借贷，有跨链桥，也有各种流动性和单币质押挖矿。在 Chains 下面，我们也可以很直观的看到各条链的锁仓量，也就是 TVL 的排名，这个指标越高，一般能说明其链上的 DeFi 生态越繁荣。点开这些链之后，我们能看到其对应链上 DeFi 协议的排名，具体到某项协议的详情，也可以点进去查看。
 
 # 数据分析
 
