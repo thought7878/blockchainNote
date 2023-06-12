@@ -10,4 +10,6 @@
 
 ##
 
-[类似 chatgpt](https://twitter.com/0xAA_Science/status/1664516706843389953)
+- [类似 chatgpt](https://twitter.com/0xAA_Science/status/1664516706843389953)
+
+- [AI 工具合集](https://twitter.com/minhupo/status/1667836888676470790)
