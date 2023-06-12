@@ -4,7 +4,8 @@
 
 ## 网站
 
-- [ai 聚合](https://poe.com/)
+- [ai 聚合](https://ai-bot.cn/)
+- [ai 聚合 2](https://poe.com/)
 
 [一键制作网页和 Ppt 的 AI 工具—Gamma](https://twitter.com/MeetGamma)
 
