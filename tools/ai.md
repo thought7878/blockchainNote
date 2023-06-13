@@ -4,6 +4,7 @@
 
 ## 网站
 
+- [免费使用 GPT4 的 7 种方法](https://twitter.com/OxPanda_/status/1667377889426432001)
 - [ai 聚合](https://ai-bot.cn/)
 - [ai 聚合 2](https://poe.com/)
 
