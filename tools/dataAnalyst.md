@@ -43,10 +43,13 @@ TVL 是 Defi 项目的最重要的参考指标之一。DeFiLlama 能够准确、
 
 ## Dex chart
 
+- [ave.ai](ave.ai)
+
+- [dexscreener](https://dexscreener.com/)
+
 - [GeckoTerminal](https://www.geckoterminal.com/zh)
   dex 的实时 k 线及盘面信息
 
-- [dexscreener](https://dexscreener.com/)
   dex 的实时 k 线及盘面信息
 
 ## 钱包地址可视化
