@@ -12,7 +12,7 @@
 - [LSDFi Summer 来袭，快速读懂 6 个值得关注的 LSDFi 项目](https://foresightnews.pro/article/detail/34356)
 - [盘点当下早期 LSDFi 潜力项目 - LD ](https://foresightnews.pro/article/detail/35028)
 - [Foresight Ventures：LSD 产品与 DeFi 生态的整合](https://foresightnews.pro/article/detail/28437)
-- []()
+- [盘点 10 个低市值 LSD-fi 项目：寻找被低估的新机会](https://www.theblockbeats.info/news/37099)
 - []()
 - []()
 
