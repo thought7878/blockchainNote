@@ -13,7 +13,7 @@
 - [盘点当下早期 LSDFi 潜力项目 - LD ](https://foresightnews.pro/article/detail/35028)
 - [Foresight Ventures：LSD 产品与 DeFi 生态的整合](https://foresightnews.pro/article/detail/28437)
 - [盘点 10 个低市值 LSD-fi 项目：寻找被低估的新机会](https://www.theblockbeats.info/news/37099)
-- []()
+- [LSD MAP 2.0：格局、数据、趋势、收益、用户等因素分析](https://foresightnews.pro/article/detail/36000)
 - []()
 
 ## Gamium

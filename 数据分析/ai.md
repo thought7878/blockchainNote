@@ -15,3 +15,7 @@
 - [类似 chatgpt](https://twitter.com/0xAA_Science/status/1664516706843389953)
 
 - [AI 工具合集](https://twitter.com/minhupo/status/1667836888676470790)
+
+## 信息查询
+
+- [使用 chatgpt 的 Twitter 上找到热门话题](https://twitter.com/bitfool1/status/1673883196235333635?s=20)
